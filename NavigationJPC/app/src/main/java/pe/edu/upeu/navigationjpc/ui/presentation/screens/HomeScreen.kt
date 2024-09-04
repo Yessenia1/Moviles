@@ -11,6 +11,6 @@ import androidx.compose.ui.Modifier
 @Composable
 fun HomeScreen() {
     Box(modifier = Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
-        Text(text = "Home Screen", style = MaterialTheme.typography.headlineMedium)
+        Text(text = "Yesenia Alejandra \n Gutierrez Anco", style = MaterialTheme.typography.headlineMedium)
     }
 }
